@@ -13,5 +13,5 @@
 ### Bem-vindo ao meu perfil 👋
 
 - 🚀  Atualmente estou aprendendo algo novo todo dia
-- 💻 Node, ReactJS, React Native, Typescript
+- 💻  C#|Java|HTML5|CSS3|JS|Bootstrap|WordPress|ReactJS|Node|Android(Java|Kotlin|Flutter)|React Native|Typescript
 - ✨ O aprendizado é contínuo e sempre haverá um próximo nível
