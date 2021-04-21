@@ -1,16 +1,17 @@
-### Hi there 👋
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
-<!--
-**RONISVONN/RONISVONN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/ronisvonn-gomes-82ab6ab0/">
+<img align="right" alt="LinkedIn" src="https://raw.githubusercontent.com/RONISVONN/img/f13b41908ae9501e1eaa9a41f56b4452b8d8d277/linkedIn-ronisvonn.svg"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="mailto:ronisvonn@gmail.com">
+<img align="right" alt="E-mail" src="https://raw.githubusercontent.com/RONISVONN/img/01eb1a7a3013e6c1ebe2b8611c17eba0b3345a38/email-ronisvonn.svg"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### Bem-vindo ao meu perfil 👋
+
+- 🚀  Atualmente estou aprendendo algo novo todo dia
+- 💻 Node, ReactJS, React Native, Typescript
+- ✨ O aprendizado é contínuo e sempre haverá um próximo nível
