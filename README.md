@@ -1,11 +1,11 @@
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
 <a href="https://www.linkedin.com/in/ronisvonn-gomes-82ab6ab0/">
-<img align="right" alt="LinkedIn" src="https://raw.githubusercontent.com/RONISVONN/img/f13b41908ae9501e1eaa9a41f56b4452b8d8d277/linkedIn-ronisvonn.svg"/>
+<img align="right" alt="LinkedIn" src="https://raw.githubusercontent.com/RONISVONN/img/e3fa17e2d21a486757f805c99de42b5e6fb1179a/linkedIn-ronisvonn.svg"/>
 </a>
 
 <a href="mailto:ronisvonn@gmail.com">
-<img align="right" alt="E-mail" src="https://raw.githubusercontent.com/RONISVONN/img/01eb1a7a3013e6c1ebe2b8611c17eba0b3345a38/email-ronisvonn.svg"/>
+<img align="right" alt="E-mail" src="https://raw.githubusercontent.com/RONISVONN/img/e3fa17e2d21a486757f805c99de42b5e6fb1179a/email-ronisvonn.svg"/>
 </a>
 
 <br/>
