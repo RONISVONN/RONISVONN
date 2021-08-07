@@ -14,5 +14,5 @@
 
 - 🚀  Atualmente estou aprendendo algo novo todo dia
 - 💻  C# | Java | HTML5 | CSS3 | JS | Bootstrap | WordPress | ReactJS
-- Node | Android(Java | Kotlin | Flutter) | React Native | Typescript
+- Node | Android(Java | Kotlin | Flutter) | Typescript
 - ✨ O aprendizado é contínuo e sempre haverá um próximo nível
